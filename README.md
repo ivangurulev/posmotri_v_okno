@@ -1,1 +1,1 @@
-https://github.com/ivangurulev/posmotri_v_okno
+https://github.com/ivangurulev/posmotri_v_okno.git
